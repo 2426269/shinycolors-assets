@@ -1,0 +1,17 @@
+# 操作系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+~*
+
+# 编辑器文件
+.vscode/
+.idea/
+
+# 备份文件
+backup/
+*.backup
